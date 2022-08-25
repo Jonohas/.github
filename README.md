@@ -6,5 +6,5 @@
   <img src="https://wakatime.com/share/@Jonahas/a251daba-b59f-4982-93bf-ba8ff376a305.png" />
 </a>
 
-!Jonohas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonohas&count_private=true&show_icons=true&theme=radical)
+![Jonohas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonohas&count_private=true&show_icons=true&theme=radical)
 
